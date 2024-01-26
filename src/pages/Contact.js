@@ -1,11 +1,11 @@
 import React from 'react'
-import PizzaLeft from '../assets/pizzaLeft.jpg';
+import Last from '../assets/last.jpg';
 import '../styles/contact.css';
 
 function Contact() {
   return (
     <div className='contact'>
-        <div className='leftSide' style={{ backgroundImage: `url(${PizzaLeft})` }}>Hwllo</div>
+        <div className='leftSide' style={{ backgroundImage: `url(${Last})` }}></div>
         <div className='rightSide'>
             <h1>Contact Us</h1>
             <form id='contact-form' method='POST'>

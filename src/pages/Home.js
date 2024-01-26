@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { Link } from 'react-router-dom';
-import BannerImage from '../assets/pizza.jpeg';
+import BannerImage from '../assets/bea.jpg';
 import "../styles/home.css";
 import '../styles/footer.css'
 

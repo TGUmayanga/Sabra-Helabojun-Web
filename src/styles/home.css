@@ -66,7 +66,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      font-size: bold;
+      
       flex-direction: column;
       background-color: #121619;
       color: white;
@@ -75,6 +75,7 @@
     .headerContainer h1 {
       font-size: 40px;
       height: 30px;
+      font-size: bold;
       color: white;
     }
   

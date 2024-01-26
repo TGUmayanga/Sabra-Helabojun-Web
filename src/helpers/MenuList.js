@@ -1,45 +1,45 @@
-import Pepperoni from "../assets/pepperoni.jpg";
-import Margherita from "../assets/margherita.jpg";
-import PedroTechSpecial from "../assets/pedrotechspecial.jpg";
-import Vegan from "../assets/vegan.jpg";
-import Pineapple from "../assets/pineapple.jpg";
-import Expensive from "../assets/expensive.jpg";
+import Sthoppers from "../assets/string.jpg";
+import Hoppers from "../assets/hoppers.jpg";
+import Juice from "../assets/juice.jpg";
+import Belimal from "../assets/belimal.jpg";
+import Traditional from "../assets/tradi.jpg";
+import Sweets from "../assets/sweets.jpg";
 
 export const MenuList = [
 {
-    name: "Pepperoni Pizza",
-    image: Pepperoni,
-    price: 10
+    name: "String Hoppers",
+    image: Sthoppers,
+    price: 150
 
 },
 
 {
-    name: "Margherita Pizza",
-    image: Margherita,
-    price: 50 
+    name: "Hoppers",
+    image: Hoppers,
+    price: 30
 },
 
 {
-    name: "PedroTech Special Pizza",
-    image: PedroTechSpecial,
-    price: 20
+    name: "Fruit Juice",
+    image: Juice,
+    price: 200
 },
 
 {
-    name: "Vegan Pizza",
-    image: Vegan,
-    price: 25
+    name: "Belimal with Gegary",
+    image: Belimal,
+    price: 50
 },
 
 {
-    name: "Pineapple Pizza",
-    image: Pineapple,
-    price: 25
+    name: "Traditional Lunch",
+    image: Traditional,
+    price: 300
 },
 
 {
-    name: "Expensive Pizza",
-    image: Expensive,
-    price: 35
+    name: "Traditional Sweets",
+    image: Sweets,
+    price: 50
 },
 ];
